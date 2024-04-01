@@ -3,3 +3,4 @@ it has been changed locally
 lets see, does it change in remote repo
 this is for 4th commit test or pushh test to remote
 extra text for 5th commit on online for pull test
+this 6th line is added staying on feature1 branch
